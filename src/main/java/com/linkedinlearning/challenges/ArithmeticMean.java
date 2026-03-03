@@ -2,7 +2,6 @@ package com.linkedinlearning.challenges;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.stream.Stream;
 
 public class ArithmeticMean {
   public static void main (String[] args) {

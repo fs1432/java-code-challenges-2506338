@@ -1,7 +1,5 @@
 package com.linkedinlearning.challenges;
 
-import java.util.Scanner;
-
 public class VATCalculator {
   static double MWSTSATZ = 0.19;
 
