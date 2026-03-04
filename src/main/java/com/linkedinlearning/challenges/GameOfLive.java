@@ -1,7 +1,5 @@
 package com.linkedinlearning.challenges;
 
-import scala.annotation.meta.field;
-
 public class GameOfLive {
   static boolean[][] field = {
       { false, false, false, false, false },
