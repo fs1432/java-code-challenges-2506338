@@ -4,9 +4,9 @@ public class Item {
 
   public String name;
 
-  public int sellIn;
+  public int sellIn; // Haltbarkein
 
-  public int quality;
+  public int quality; // Wert
 
   public Item(String name, int sellIn, int quality) {
     this.name = name;
